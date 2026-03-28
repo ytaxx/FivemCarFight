@@ -2,13 +2,21 @@
 
 Vehicle-Fight prevents vehicle-based combat exploits by restricting firing based on vehicle whitelist, aiming angle, and speed. It adds collision visuals (particles + camera shake), can disable action-mode, and includes a client heartbeat to detect event spam.
 
+
+![image](https://github.com/ytaxx/FivemCarFight/blob/main/wkepek/image2.png)
+
 ## Features
 - Angle-based firing restriction with configurable min/max degrees
 - Speed-based firing restriction (km/h)
 - Whitelist for safe vehicles
 - Passenger-angle restrictions
 - Collision effects (particles + camera shake)
+
+![image](https://github.com/ytaxx/FivemCarFight/blob/main/wkepek/image1.png)
+
 - Client heartbeat to detect resource-stopper / event spam
+
+![image](https://github.com/ytaxx/FivemCarFight/blob/main/wkepek/image9.png)
 
 ## Requirements
 - FXServer / FiveM
