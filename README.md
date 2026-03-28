@@ -19,7 +19,7 @@ Vehicle-Fight prevents vehicle-based combat exploits by restricting firing based
 2. Add the resource to your `server.cfg` or start it manually:
 
 ```ini
-ensure ytax_kocsifight
+ensure FivemCarFight
 ```
 
 3. Restart or start the resource on the server.
